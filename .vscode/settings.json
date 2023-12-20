@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    ".clangd": true
+  },
+  "cmake.sourceDirectory": "D:/Xn/Code/Codes/C++/project/smart-udp"
+}
